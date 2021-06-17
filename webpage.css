@@ -141,10 +141,10 @@ footer {
 }
 .det{
 	color: black;
-	justify-content: center;
 	margin-left: 20px;
 	margin-right: 20px;
-	font-size: large;
+	font-size: 200%;
+	text-align: center;
 	font-family: Courier New;
 }
 .c-h{
